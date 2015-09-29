@@ -4,6 +4,7 @@
 ###示例图片
 ![gif](https://github.com/gaowanli/GWLIndicator/blob/master/1.gif)
 
+###使用方法
 ```objective-c
 初始化方法
  + (GWLIndicator *)indicatorViewWithType:(GWLIndicatorType)showType;
