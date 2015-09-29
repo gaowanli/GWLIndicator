@@ -1,6 +1,9 @@
 # GWLIndicator
 自定义的菊花
 
+###示例图片
+![gif](https://github.com/gaowanli/GWLIndicator/blob/master/1.gif)
+
 ```objective-c
 初始化方法
  + (GWLIndicator *)indicatorViewWithType:(GWLIndicatorType)showType;
